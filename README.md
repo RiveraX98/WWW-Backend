@@ -38,9 +38,10 @@ Tomorrow.io provides real time weather forecast
 
 ## Tech stack
 
-World Wide Weather uses 
 Front-end:
+
 - React / Create-React-App 
+
 Back-end:
 - Node.js 
 - Express
